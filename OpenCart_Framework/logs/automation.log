@@ -1,0 +1,80 @@
+16.41.42.043 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+16.41.42.949 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+16.41.43.186 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+16.41.43.598 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+16.41.43.783 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+16.41.44.176 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+16.42.03.667 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+16.42.04.210 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.06.53.818 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.06.55.486 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.06.55.501 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+17.06.56.294 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+17.06.56.313 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.06.56.406 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.06.56.412 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.06.56.993 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.06.57.052 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.06.57.052 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.07.59.636 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.08.00.374 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+17.08.01.448 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.08.01.532 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.08.01.537 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.08.01.638 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.08.02.478 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+17.08.03.343 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.08.03.391 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.08.03.391 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.31.19.677 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.31.20.521 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.31.21.167 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+17.31.21.590 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+17.31.22.179 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.31.22.254 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.31.22.261 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.31.22.493 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.31.22.599 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.31.22.601 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.31.42.948 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.31.44.284 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.31.44.621 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+17.31.45.433 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+17.31.45.608 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.31.45.691 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.31.45.700 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.31.46.360 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.31.46.416 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.31.46.416 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.32.22.083 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.32.22.928 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Entered all details
+17.32.23.181 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Started Execution of TC_AccountRegistration
+17.32.23.764 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Entered all details
+17.32.23.861 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.32.23.933 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.32.23.936 [TestNG-tests-2] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+17.32.24.503 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Clicking on Continue
+17.32.24.563 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Validating the Reults
+17.32.24.563 [TestNG-tests-1] INFO  testCases.TC_AccountRegistration -Exectuion is Completed..
+19.02.30.661 [main] INFO  testCases.TC2_LoginTest -Started Execution of TC_LoginTest
+19.02.52.292 [main] INFO  testCases.TC2_LoginTest -Started Execution of TC_LoginTest
+19.02.53.776 [main] INFO  testCases.TC2_LoginTest - Execution of TC_LoginTest is finished
+19.04.29.536 [main] INFO  testCases.TC2_LoginTest -Started Execution of TC_LoginTest
+19.04.31.210 [main] INFO  testCases.TC2_LoginTest - Execution of TC_LoginTest is finished
+19.26.48.716 [main] INFO  testCases.TC2_LoginTest -Started Execution of TC_LoginTest
+19.26.50.798 [main] INFO  testCases.TC2_LoginTest - Execution of TC_LoginTest is finished
+19.11.44.007 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.12.28.543 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.14.30.787 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.16.26.221 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.18.32.807 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.21.37.093 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.26.15.130 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.26.36.440 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+19.26.57.315 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+21.29.24.112 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+21.29.45.785 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+21.30.07.282 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+06.51.03.196 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+06.51.24.441 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
+06.51.46.017 [main] INFO  testCases.TC_LoginDDT - Execution of TC_LoginTest is finished
